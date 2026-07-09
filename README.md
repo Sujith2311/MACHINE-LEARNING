@@ -61,26 +61,26 @@ Welcome to my **Machine Learning** repository — a curated, continuously growin
 
 ## 📊 Supervised Learning
 
-| Algorithm | Category | Status | Notebook | Last Updated |
+| Algorithm | Category | Status | Solution | Last Updated |
 |:---|:---|:---:|:---:|:---:|
-| Linear Regression | Regression | 🟢 Completed | 🚧 Coming Soon | 2026-07 |
-| Logistic Regression | Classification | ⚪ Planned | 🚧 Coming Soon | — |
-| K-Nearest Neighbors (KNN) | Classification / Regression | ⚪ Planned | 🚧 Coming Soon | — |
-| Naive Bayes | Classification | ⚪ Planned | 🚧 Coming Soon | — |
-| Decision Tree | Classification / Regression | ⚪ Planned | 🚧 Coming Soon | — |
-| Random Forest | Classification / Regression | ⚪ Planned | 🚧 Coming Soon | — |
-| Support Vector Machine (SVM) | Classification / Regression | ⚪ Planned | 🚧 Coming Soon | — |
-| Gradient Boosting | Classification / Regression | ⚪ Planned | 🚧 Coming Soon | — |
-| XGBoost / LightGBM | Classification / Regression | ⚪ Planned | 🚧 Coming Soon | — |
+| Linear Regression | Regression | 🟢 Completed | [View Notebook](./SUPERVISED%20LEARNING/linearregression.ipynb) | 2026-07 |
+| Logistic Regression | Classification | ⚪ Planned | [View Notebook](./SUPERVISED%20LEARNING/logisticregression.ipynb) | — |
+| K-Nearest Neighbors (KNN) | Classification / Regression | ⚪ Planned | [View Notebook](./SUPERVISED%20LEARNING/knn.ipynb) | — |
+| Naive Bayes | Classification | ⚪ Planned | [View Notebook](./SUPERVISED%20LEARNING/naivebayes.ipynb) | — |
+| Decision Tree | Classification / Regression | ⚪ Planned | [View Notebook](./SUPERVISED%20LEARNING/decisiontree.ipynb) | — |
+| Random Forest | Classification / Regression | ⚪ Planned | [View Notebook](./SUPERVISED%20LEARNING/randomforest.ipynb) | — |
+| Support Vector Machine (SVM) | Classification / Regression | ⚪ Planned | [View Notebook](./SUPERVISED%20LEARNING/svm.ipynb) | — |
+| Gradient Boosting | Classification / Regression | ⚪ Planned | [View Notebook](./SUPERVISED%20LEARNING/gradientboosting.ipynb) | — |
+| XGBoost / LightGBM | Classification / Regression | ⚪ Planned | [View Notebook](./SUPERVISED%20LEARNING/xgboost.ipynb) | — |
 
 ## 🧩 Unsupervised Learning
 
-| Algorithm | Category | Status | Notebook | Last Updated |
+| Algorithm | Category | Status | Solution | Last Updated |
 |:---|:---|:---:|:---:|:---:|
-| K-Means Clustering | Clustering | ⚪ Planned | 🚧 Coming Soon | — |
-| Hierarchical Clustering | Clustering | ⚪ Planned | 🚧 Coming Soon | — |
-| DBSCAN | Clustering | ⚪ Planned | 🚧 Coming Soon | — |
-| Principal Component Analysis (PCA) | Dimensionality Reduction | ⚪ Planned | 🚧 Coming Soon | — |
+| K-Means Clustering | Clustering | ⚪ Planned | [View Notebook](./UNSUPERVISED/kmeans.ipynb) | — |
+| Hierarchical Clustering | Clustering | ⚪ Planned | [View Notebook](./UNSUPERVISED/hierarchical.ipynb) | — |
+| DBSCAN | Clustering | ⚪ Planned | [View Notebook](./UNSUPERVISED/dbscan.ipynb) | — |
+| Principal Component Analysis (PCA) | Dimensionality Reduction | ⚪ Planned | [View Notebook](./UNSUPERVISED/pca.ipynb) | — |
 
 > **Legend:** 🟢 Completed &nbsp;•&nbsp; 🟡 In Progress &nbsp;•&nbsp; ⚪ Planned
 
