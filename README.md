@@ -64,7 +64,7 @@ Welcome to my **Machine Learning** repository — a curated, continuously growin
 | Algorithm | Category | Status | Solution | Last Updated |
 |:---|:---|:---:|:---:|:---:|
 | Linear Regression | Regression | 🟢 Completed | [View Notebook](./SUPERVISED_LEARNING/LinearRegression.ipynb) | 2026-07 |
-| Logistic Regression | Classification | ⚪ Planned | [View Notebook](./SUPERVISED%20LEARNING/logisticregression.ipynb) | — |
+| Logistic Regression | Classification | ⚪ Planned | [View Notebook](./[SUPERVISED%20LEARNING/logisticregression.ipynb](https://github.com/Sujith2311/MACHINE-LEARNING/blob/main/SUPERVISED_LEARNING/logisticregression.ipynb.ipynb)) | — |
 | K-Nearest Neighbors (KNN) | Classification / Regression | ⚪ Planned | [View Notebook](./SUPERVISED%20LEARNING/knn.ipynb) | — |
 | Naive Bayes | Classification | ⚪ Planned | [View Notebook](./SUPERVISED%20LEARNING/naivebayes.ipynb) | — |
 | Decision Tree | Classification / Regression | ⚪ Planned | [View Notebook](./SUPERVISED%20LEARNING/decisiontree.ipynb) | — |
