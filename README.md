@@ -156,18 +156,18 @@ Following a consistent pipeline ensures every notebook is reproducible, comparab
 Machine-Learning/
 │
 ├── Supervised-Learning/
-│   ├── Linear-Regression/
-│   │   ├── linear_regression.ipynb
+│   ├── LinearRegression/
+│   │   ├── LinearRegression.ipynb
 │   │   ├── README.md
 │   │   └── assets/
-│   ├── Logistic-Regression/
-│   ├── KNN/
-│   ├── Naive-Bayes/
-│   ├── Decision-Tree/
-│   ├── Random-Forest/
-│   ├── SVM/
-│   ├── Gradient-Boosting/
-│   └── XGBoost-LightGBM/
+│   ├── logisticregression.ipynb/
+│   ├── KNNalgorithm.ipynb/
+│   ├── naivebayes.ipynb/
+│   ├── DecisionTree.ipynb/
+│   ├── Randomforest.pynb/
+│   ├── SVM.ipynb/
+│   ├── GradientBoosting/
+│   └── XGBoostLightGBM/
 │
 ├── Unsupervised-Learning/
 │   ├── K-Means-Clustering/
