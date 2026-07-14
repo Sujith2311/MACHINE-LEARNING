@@ -68,7 +68,7 @@ Welcome to my **Machine Learning** repository — a curated, continuously growin
 | K-Nearest Neighbors (KNN) | Classification / Regression | 🟢 Completed | [View Notebook](./SUPERVISED_LEARNING/KNNalgorithm.ipynb) |11-07-2026|
 | Naive Bayes | Classification | 🟢 Completed | [View Notebook](./SUPERVISED_LEARNING/naivebayes.ipynb)| 12-07-2026 |
 | Decision Tree | Classification / Regression | 🟢 Completed |[View Notebook](./SUPERVISED_LEARNING/DecisionTree.ipynb)|13-07-2026 |
-| Random Forest | Classification / Regression | ⚪ Planned | [View Notebook](./SUPERVISED%20LEARNING/randomforest.ipynb) | — |
+| Random Forest | Classification / Regression |🟢 Completed  | [View Notebook](./SUPERVISED_LEARNING/Randomforest.ipynb)| 14-07-2026 |
 | Support Vector Machine (SVM) | Classification / Regression | ⚪ Planned | [View Notebook](./SUPERVISED%20LEARNING/svm.ipynb) | — |
 | Gradient Boosting | Classification / Regression | ⚪ Planned | [View Notebook](./SUPERVISED%20LEARNING/gradientboosting.ipynb) | — |
 | XGBoost / LightGBM | Classification / Regression | ⚪ Planned | [View Notebook](./SUPERVISED%20LEARNING/xgboost.ipynb) | — |
