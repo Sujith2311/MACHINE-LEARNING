@@ -70,7 +70,7 @@ Welcome to my **Machine Learning** repository — a curated, continuously growin
 | Decision Tree | Classification / Regression | 🟢 Completed |[View Notebook](./SUPERVISED_LEARNING/DecisionTree.ipynb)|13-07-2026 |
 | Random Forest | Classification / Regression |🟢 Completed  | [View Notebook](./SUPERVISED_LEARNING/Randomforest.ipynb)| 14-07-2026 |
 | Support Vector Machine (SVM) | Classification / Regression | 🟢 Completed| [View Notebook](./SUPERVISED_LEARNING/svm.ipynb)| 15-07-2026 |
-| Gradient Boosting | Classification / Regression | ⚪ Planned | [View Notebook](./SUPERVISED%20LEARNING/gradientboosting.ipynb) | — |
+| Gradient Boosting | Classification / Regression | 🟢 Completed  | [View Notebook](./SUPERVISED_LEARNING/GradientBoosting.ipynb) | 16-07-2026 |
 | XGBoost / LightGBM | Classification / Regression | ⚪ Planned | [View Notebook](./SUPERVISED%20LEARNING/xgboost.ipynb) | — |
 
 ## 🧩 Unsupervised Learning
