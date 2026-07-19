@@ -77,8 +77,8 @@ Welcome to my **Machine Learning** repository — a curated, continuously growin
 
 | Algorithm | Category | Status | Solution | Last Updated |
 |:---|:---|:---:|:---:|:---:|
-| K-Means Clustering | Clustering | 🟢 Completed  | [view Notebook](./SUPERVISED_LEARNING/kmeans.ipynb)| 18-07-2026 |
-| Hierarchical Clustering | Clustering | ⚪ Planned | [View Notebook](./UNSUPERVISED/hierarchical.ipynb) | — |
+| K-Means Clustering | Clustering | 🟢 Completed  | [view Notebook](./UNSUPERVISED/kmeans.ipynb)| 18-07-2026 |
+| Hierarchical Clustering | Clustering | 🟢 Completed |[view Notebook](./UNSUPERVISED/HierarchicalClustering.ipynb) | 19-07-2026 |
 | DBSCAN | Clustering | ⚪ Planned | [View Notebook](./UNSUPERVISED/dbscan.ipynb) | — |
 | Principal Component Analysis (PCA) | Dimensionality Reduction | ⚪ Planned | [View Notebook](./UNSUPERVISED/pca.ipynb) | — |
 
